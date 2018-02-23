@@ -13,5 +13,5 @@ This course will go over basic installation, JSON, schema design, querying, inse
  * Week 7: Case Studies Interview with Charity Majors, Parse and interview with Ryan Bubinski, Codecademy.
  * Final Exam
 
-##Links:
+## Links:
 Course link: [MongoDB University M101N](https://university.mongodb.com/courses/M101N/about).
