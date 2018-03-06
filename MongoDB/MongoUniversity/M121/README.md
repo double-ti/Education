@@ -5,8 +5,7 @@ Fundamentals of the MongoDB's powerful Aggregation Framework: data transformatio
 ## Agenda:
  * Week 1: Aggregation Basic Stages
  * Week 2: Grouping, Lookups and Statistical Stages
- * Week 3: Miscellaneous Aggregation
- * Week 4: Final Exam
+ * Week 3: Miscellaneous Aggregation, Final Exam
 
 ## Links:
 Course link: [MongoDB University M121](https://university.mongodb.com/courses/M121/about).
