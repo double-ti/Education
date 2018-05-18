@@ -27,8 +27,6 @@ Note: The validation script will look for the document in the "enron.messages" n
     update: { $push: { "headers.To": "mrpotatohead@mongodb.com" } }
 })
 ```
+
 ## Answer
-After starting the validation file, I got this message:
-"Welcome to the Final Exam Q3 Checker. My job is to make sure you correctly updated the document
-Final Exam Q3 Validated successfully!
-Your validation code is: vOnRg05kwcqyEFSve96R"
+vOnRg05kwcqyEFSve96R
